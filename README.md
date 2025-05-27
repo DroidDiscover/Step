@@ -3,12 +3,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>HTML Document Template</title>
-  <style>
-    p {
-      font-family: Arial, sans-serif;
-    }
-  </style>
 </head>
 <body>
   <p>Привет! Как ты сюда добрался? Ну ладно, не важно...</p>
